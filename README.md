@@ -20,7 +20,7 @@
 ---
 
 ### 📫 Connect With Me:
-- 💼 [LinkedIn]((https://www.linkedin.com/in/haseebibrar1/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/haseebibrar1/)
 - ✉️ Email: haseebheretiti@gmail.com
 
 ---
