@@ -1,7 +1,28 @@
-Hi there 👋  
-I'm a Social Media Manager with hands-on experience in content creation, graphic design (Canva), SEO, and digital marketing strategy.  
-Currently working remotely with HanSan J. Technologies and Evoke Sokutionz.  
-I’m passionate about building engaging content, growing brand presence, and continuously learning new tools and trends.
+## 👋 Hi, I'm Haseeb Ibrar — Social Media Manager | Canva Expert | SEO Enthusiast
 
-📌 Skills: Social Media Management · Canva · SEO · Graphic Design · Project Coordination  
-🎯 Goal: Deliver content that connects, engages, and drives results.  
+🎯 I'm passionate about creating engaging content, designing impactful visuals, and growing meaningful digital communities.  
+📍 Currently working remotely with **HanSan J. Technologies** & **Evoke Sokutionz**.  
+🧠 Always learning and experimenting with new tools, strategies, and platforms.
+
+---
+
+### 💼 Current Roles:
+- 🧑‍💻 Social Media Manager @ HanSan J. Technologies (Remote)
+- 📈 Social Media Manager @ Evoke Sokutionz (Remote)
+
+### 🛠️ Skills:
+- 🎨 Canva Design
+- 📱 Social Media Strategy & Management
+- 🔍 SEO Basics
+- ✍️ Content Creation
+- 📊 Engagement & Growth Tracking
+
+---
+
+### 📫 Connect With Me:
+- 💼 [LinkedIn]((https://www.linkedin.com/in/haseebibrar1/))
+- ✉️ Email: haseebheretiti@gmail.com
+
+---
+
+🧩 *"Building brands one post at a time, with creativity and purpose."*
