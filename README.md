@@ -49,3 +49,12 @@ CS student at the Institute of Space Technology, currently deep in database syst
 Open to conversations about recruitment automation, GTM systems, or n8n workflow design. Best way to reach me is [LinkedIn](https://www.linkedin.com/in/haseebibrar1/).
 
 <sub>"First, solve the problem. Then, write the code." — John Johnson</sub>
+
+
+## 🏅 Certifications
+
+[claude-academy-badge-claude-code-in-action_Ceritificate.pdf](https://github.com/user-attachments/files/33632083/claude-academy-badge-claude-code-in-action_Ceritificate.pdf)
+
+
+**Claude Code in Action** — Claude Academy course completion badge, presented to Haseeb Ibrar, issued October 18, 2026.
+[Verify this badge](https://academy.claude.com/verify/418d83e5125af40428c17c9e92e39088)
