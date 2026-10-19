@@ -7,7 +7,7 @@
   <a href="mailto:haseebheretiti@gmail.com"><img src="https://img.shields.io/badge/Email-haseebheretiti%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
-I design and ship **n8n-based automation systems** that connect sourcing, outreach, and reporting into one pipeline — so recruitment and GTM teams scale without adding headcount. Currently GTM Engineer at **SwooScale**, and an official launch partner for **Prospeo**.
+I design and ship **n8n-based automation systems** that connect sourcing, outreach, and reporting into one pipeline. So recruitment and GTM teams scale without adding headcount. Currently GTM Engineer at **SwooScale**, and an official launch partner for **Prospeo**.
 
 ```
 what_i_do = {
